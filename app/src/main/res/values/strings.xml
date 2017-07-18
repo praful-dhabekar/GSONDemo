@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GSONDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="api_URL">https://madhu-e399d.firebaseapp.com/data.json</string>
+</resources>
